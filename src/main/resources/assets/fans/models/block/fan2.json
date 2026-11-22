@@ -1,0 +1,12 @@
+{
+ "parent": "block/cube",
+ "textures": {
+  "particle": "fans:blocks/fanside2",
+  "down": "fans:blocks/fanside2",
+  "north": "fans:blocks/fanside2",
+  "south": "fans:blocks/fanside2",
+  "east": "fans:blocks/fanside2",
+  "west": "fans:blocks/fanside2",
+  "up": "fans:blocks/fantop2"
+ }
+}

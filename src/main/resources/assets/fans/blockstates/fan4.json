@@ -1,0 +1,56 @@
+{
+ "variants": {
+  "facing=0,powered=false": {
+   "model": "fans:fan4",
+   "x": 90,
+   "y": 180
+  },
+  "facing=0,powered=true": {
+   "model": "fans:fan4_on",
+   "x": 90,
+   "y": 180
+  },
+  "facing=1,powered=false": {
+   "model": "fans:fan4",
+   "x": 90,
+   "y": 90
+  },
+  "facing=1,powered=true": {
+   "model": "fans:fan4_on",
+   "x": 90,
+   "y": 90
+  },
+  "facing=2,powered=false": {
+   "model": "fans:fan4",
+   "x": 90
+  },
+  "facing=2,powered=true": {
+   "model": "fans:fan4_on",
+   "x": 90
+  },
+  "facing=3,powered=false": {
+   "model": "fans:fan4",
+   "x": 90,
+   "y": 270
+  },
+  "facing=3,powered=true": {
+   "model": "fans:fan4_on",
+   "x": 90,
+   "y": 270
+  },
+  "facing=4,powered=false": {
+   "model": "fans:fan4"
+  },
+  "facing=4,powered=true": {
+   "model": "fans:fan4_on"
+  },
+  "facing=5,powered=false": {
+   "model": "fans:fan4",
+   "x": 180
+  },
+  "facing=5,powered=true": {
+   "model": "fans:fan4_on",
+   "x": 180
+  }
+ }
+}

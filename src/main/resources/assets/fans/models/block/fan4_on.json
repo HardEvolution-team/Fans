@@ -1,0 +1,12 @@
+{
+ "parent": "block/cube",
+ "textures": {
+  "particle": "fans:blocks/fanside4",
+  "down": "fans:blocks/fanside4",
+  "north": "fans:blocks/fanside4",
+  "south": "fans:blocks/fanside4",
+  "east": "fans:blocks/fanside4",
+  "west": "fans:blocks/fanside4",
+  "up": "fans:blocks/fantopa4"
+ }
+}
